@@ -5,3 +5,5 @@ validation/
 ChiSig.tar.gz
 model_saved/
 *.pth
+*.h5
+model_best_checkpoint.h5
