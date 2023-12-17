@@ -1,0 +1,12 @@
+future
+matplotlib
+numpy
+pandas
+torch
+linformer
+Pillow
+tqdm
+vit-pytorch
+scikit-learn
+torchvision
+jupyter
