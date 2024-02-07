@@ -59,4 +59,22 @@ conda env create -f signature_verification_env.yml
 
 The details for proper data manipulation and evluation are given in detail in the [corresponding paper](/ViTs%20and%20More%20-%20Exploring%20Signature%20Forgery%20Verification-1.pdf). 
 
-*This project was created as the final project for CS427 - Introuction to Artificial Intelligence at KAIST.
+## References
+
+- **Python 3.9**: Core programming language. [Python](https://www.python.org/)
+- **Jupyter**: Interactive computing and development. [Jupyter](https://jupyter.org/)
+- **NumPy**: Numerical computing. [NumPy](https://numpy.org/)
+- **Pandas**: Data manipulation and analysis. [Pandas](https://pandas.pydata.org/)
+- **Scikit-learn**: Machine learning algorithms. [Scikit-learn](https://scikit-learn.org/stable/)
+- **Matplotlib & Seaborn**: Data visualization. [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
+- **PyTorch & torchvision & torchaudio**: Deep learning and computer vision/audio processing. [PyTorch](https://pytorch.org/)
+- **TensorFlow-GPU**: Machine learning framework for GPU acceleration. [TensorFlow](https://www.tensorflow.org/install/gpu)
+- **CUDA Toolkit 12.1**: NVIDIA's GPU programming toolkit. [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
+- **OpenCV-Python**: Open-source computer vision library. [OpenCV](https://opencv.org/)
+- **Pillow**: Python Imaging Library. [Pillow](https://python-pillow.org/)
+- **Albumentations**: Fast image augmentation. [Albumentations](https://albumentations.ai/)
+- **tqdm**: Progress bars for loops. [tqdm](https://tqdm.github.io/)
+
+For GPU acceleration, specific versions of PyTorch, torchvision, and torchaudio are used, compatible with CUDA Toolkit 12.1. Install them using pip with links provided in the `pip` section of the environment setup.
+
+**This project was created as the final project for CS427 - Introuction to Artificial Intelligence at KAIST.**
