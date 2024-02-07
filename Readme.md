@@ -57,7 +57,7 @@ Use the package manager [conda](https://docs.anaconda.com/free/miniconda/) to in
 conda env create -f signature_verification_env.yml
 ```
 
-The details for proper data manipulation and evluation are given in detail in the [corresponding paper](/ViTs%20and%20More%20-%20Exploring%20Signature%20Forgery%20Verification-1.pdf). 
+The details for proper data manipulation and evaluation are given in detail in the [corresponding paper](/ViTs%20and%20More%20-%20Exploring%20Signature%20Forgery%20Verification-1.pdf). 
 
 ## References
 
