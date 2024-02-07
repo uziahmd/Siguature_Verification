@@ -51,7 +51,7 @@ Our exploration into Vision Transformer (ViT) for signature verification reveals
 ## How to Use This Repository
 ### Installation
 
-Use the package manager [conda](https://docs.anaconda.com/free/miniconda/) to install foobar.
+Use the package manager [conda](https://docs.anaconda.com/free/miniconda/) to install the dependencies.
 
 ```bash
 conda env create -f signature_verification_env.yml
