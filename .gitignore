@@ -1,7 +1,6 @@
 test/
 train/
 validation/
-ChiSig.tar.gz
 model_saved/
 *.pth
 *.h5

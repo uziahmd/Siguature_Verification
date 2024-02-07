@@ -1,0 +1,3 @@
+[submodule "ChiSig"]
+	path = ChiSig
+	url = https://github.com/dskezju/ChiSig.git
